@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "7ee8685c351e8a9ae45b1f0d0005be00"
+build_time: [1583269532, 745507000]
+inputs:
+  "/Users/kunzhang/Documents/swiftcode/I Am Rich/I Am Rich/ViewController.swift": [1583269517, 879704393]
+  "/Users/kunzhang/Documents/swiftcode/I Am Rich/I Am Rich/AppDelegate.swift": [1583269517, 866406881]
+  "/Users/kunzhang/Documents/swiftcode/I Am Rich/I Am Rich/SceneDelegate.swift": [1583269517, 875642931]
